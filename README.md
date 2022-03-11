@@ -37,3 +37,7 @@ A clean and nice web portfolio for designer or developer. That includes almost e
 ![preview img](Previews/Preview-8.png)
 
                                                                                𝐁𝐋𝐎𝐆𝐒 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+                                                                               
+   ![preview img](Previews/Preview-9.png)                                                                            
+                                                                               
+                                                                               **𝐕𝐀𝐑𝐈𝐎𝐔𝐒 𝐃𝐈𝐅𝐅𝐄𝐑𝐄𝐍𝐓 𝐁𝐋𝐎𝐆𝐒**
