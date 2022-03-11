@@ -7,3 +7,33 @@ A clean and nice web portfolio for designer or developer. That includes almost e
 
 
 ![preview img](Previews/Preview-1.png)
+
+                                                                             𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+
+![preview img](Previews/Preview-2.png)
+
+                                                                              𝐀𝐁𝐎𝐔𝐓 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+
+![preview img](Previews/Preview-3.png)
+
+                                                                              𝐒𝐊𝐈𝐋𝐋𝐒 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+
+![preview img](Previews/Preview-4.png)
+
+                                                                      𝐄𝐗𝐏𝐄𝐑𝐈𝐄𝐍𝐂𝐄 & 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+
+![preview img](Previews/Preview-5.png)
+
+                                                                          𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+
+![preview img](Previews/Preview-6.png)
+
+                                                                        𝐂𝐀𝐋𝐂𝐔𝐋𝐀𝐓𝐎𝐑 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+
+![preview img](Previews/Preview-7.png)
+
+                                                                             𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
+
+![preview img](Previews/Preview-8.png)
+
+                                                                               𝐁𝐋𝐎𝐆𝐒 𝐏𝐀𝐆𝐄 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
